@@ -1,0 +1,65 @@
+00:00:00.032935 main     VirtualBox COM Server 7.2.6 r172322 win.amd64 (Jan 30 2026 17:17:49) release log
+00:00:00.032943 main     Log opened 2026-02-23T22:26:13.111964900Z
+00:00:00.032944 main     Build Type: release
+00:00:00.032953 main     OS Product: Windows 11
+00:00:00.033282 main     OS Release: 10.0.26100.7840
+00:00:00.033283 main     OS Service Pack: 
+00:00:00.121267 main     DMI Product Name: VivoBook_ASUSLaptop E410KA_E410KA
+00:00:00.141716 main     DMI Product Version: 1.0       
+00:00:00.141743 main     Firmware type: UEFI
+00:00:00.142529 main     Secure Boot: Enabled
+00:00:00.142573 main     Host RAM: 3871MB (3.7GB) total, 680MB available
+00:00:00.143261 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.143263 main     Process ID: 10224
+00:00:00.143264 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.143278 main     Windows Features:
+00:00:00.143278 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.388687          VirtualBox: object creation starts
+00:00:00.389203          Home directory: 'C:\Users\Jasmine Newton\.VirtualBox'
+00:00:00.390132          Installed Drivers:
+00:00:00.406031            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.2.6.22322)
+00:00:00.406608            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.2.6.22322)
+00:00:00.407111            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.2.6.22322)
+00:00:00.407633            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.2.6.22322)
+00:00:00.422485          usbLibGetDevices: Starting USB device enumeration
+00:00:00.434268          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&194cfee7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.438647          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.438737          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3557)
+00:00:00.438869          USB: Unknown USB device detected (idVendor: 0x18f8, idProduct: 0x0fc0)
+00:00:00.645082          HostDnsMonitor: initializing
+00:00:00.661331          HostDnsMonitor: updating information
+00:00:00.661382          HostDnsMonitor: old information
+00:00:00.661382            no server entries
+00:00:00.661384            no domain set
+00:00:00.661384            no search string entries
+00:00:00.661384          HostDnsMonitor: new information
+00:00:00.661385            server 1: 192.168.12.1
+00:00:00.661386            domain: lan
+00:00:00.661386            no search string entries
+00:00:00.683097          VD: VDInit finished with VINF_SUCCESS
+00:00:00.686256          VirtualBox: object created
+00:00:03.117961          Saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.127787          Finished saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml"
+00:00:03.128195          Saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.132406          Finished saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml"
+00:00:03.132868          Saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.137961          Finished saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml"
+00:00:03.558223          Saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:03.562235          Finished saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml"
+00:06:39.160427 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:40.055537 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&194cfee7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:06:40.215777 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:06:54.409602 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:54.419705 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&194cfee7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:06:54.420083 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:21:09.331038 dns-monitor HostDnsMonitor: updating information
+00:21:09.335227 dns-monitor HostDnsMonitor: unchanged
+00:55:59.264688 main     WM_QUERYENDSESSION: shutdown (0x00000000)
+00:55:59.326508 main     VBoxSvc has active connections: bActivity = false, lock count = 2
+00:56:00.117725          Saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:56:00.298149          Finished saving settings file "C:\Users\Jasmine Newton\.VirtualBox\VirtualBox.xml"
+00:56:03.833255 main     VirtualBox: object deletion starts
+00:56:03.865966 main     HostDnsMonitor: shutting down ...
+00:56:03.866174 main     HostDnsMonitor: shut down
+00:56:03.897444 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:56:03.907834 main     VirtualBox: object deleted
