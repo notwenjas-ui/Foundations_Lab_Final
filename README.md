@@ -22,6 +22,8 @@ Governance refers to how the organization governs the way things are done. It di
 
 **APA Citation:** National Institute of Standards and Technology.(2018). Framework for improving Critical Infrastructure Cybersecurity. https://doi.org/10.6028/NIST.CSWP.04162018
 
+Chapple, M., & Seidl, D. (2024). Comptia Security+ Study Guide: Exam SY0-701. Sybex. 
+
 **Reflection:** Without governance, technical tools are just random tools without a goal. Governance establishes a framework that helps organizations guide the actions of cybersecurity practitioners. It makes sure that their efforts are aligned with teh objectives of the organization. GRC is the security domain that aligns most with today's material. When we discuss teh CIA, AAA, and the NIST cybersecurity framework, it all touches on how we manage cybersecurity risk. 
 
 ## Lab Report: Professional Identity & Workbench Setup
