@@ -23,7 +23,8 @@ echo "MISSING"
 echo "Python3: NOT INSTALLED" >> "$LOG_FILE" 
 fi 
 echo -n "[3] Checking Network... " 
-IP_ADDR=$(hostname -I 2>/dev/null | awk '{print $1}') if [ -n "$IP_ADDR" ]; then 
+IP_ADDR=$(hostname -I 2>/dev/null | awk '{print $1}') 
+if [ -n "$IP_ADDR" ]; then
 echo "READY ($IP_ADDR)" 
 echo "Network IP: $IP_ADDR" >> "$LOG_FILE" 
 else
