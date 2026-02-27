@@ -1,0 +1,23 @@
+00:00:02.049567 VirtualBox GUI VM Selector Window 7.2.6 r172322 win.amd64 (Jan 30 2026 17:17:49) release log
+00:00:02.049569 Log opened 2026-02-23T22:26:13.945028800Z
+00:00:02.049570 Build Type: release
+00:00:02.049571 OS Product: Windows 11
+00:00:02.049765 OS Release: 10.0.26100.7840
+00:00:02.049767 OS Service Pack: 
+00:00:02.069980 DMI Product Name: VivoBook_ASUSLaptop E410KA_E410KA
+00:00:02.077360 DMI Product Version: 1.0       
+00:00:02.077395 Firmware type: UEFI
+00:00:02.078233 Secure Boot: Enabled
+00:00:02.078251 Host RAM: 3871MB (3.7GB) total, 447MB available
+00:00:02.078257 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:02.078257 Process ID: 14876
+00:00:02.078258 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.078258 Windows Features:
+00:00:02.078259   Core Isolation (Memory Integrity): ENABLED
+00:00:02.078553 Qt version: 6.8.0
+00:00:02.082641 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:02.222632 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.519746 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:56:00.504443 GUI: UICommon: Commit data request...
+00:56:03.176964 GUI: UICommon: Handling aboutToQuit request..
+00:56:05.444416 GUI: UICommon: aboutToQuit request handled!
