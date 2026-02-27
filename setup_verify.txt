@@ -1,0 +1,13 @@
+--- FELLOWSHIP LAB VERIFICATION REPORT --- echo Timestamp: Fri Feb 27 05:02:34 PM UTC 2026
+User: jasminenewt
+Hostname: ubuntu-lab
+------------------------------------------ echo [*] Starting System Audit...
+Git: INSTALLED (git version 2.43.0)
+Python3: INSTALLED (Python 3.12.3) else
+Python3: NOT INSTALLED
+Network IP: 192.168.12.198
+Virtualization: DETECTED (oracle)
+Available Disk Space: 5.6G
+------------------------------------------
+AUDIT COMPLETE. STATUS LOGGED.
+------------------------------------------
